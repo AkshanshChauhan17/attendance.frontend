@@ -1,0 +1,5 @@
+<svg id="Group" xmlns="http://www.w3.org/2000/svg" width="50" height="51" viewBox="0 0 50 51">
+  <rect id="Rectangle_4_" width="50" height="51" fill="none"/>
+  <path id="Shape" d="M7.2,20.513H2.543a2.463,2.463,0,1,1,0-4.923s0-4.923,0-4.923a8.22,8.22,0,0,1,5.5-7.689V2.87a2.963,2.963,0,0,1,5.923,0v.108a8.223,8.223,0,0,1,5.5,7.689v4.922a2.463,2.463,0,1,1,0,4.924H14.8a3.816,3.816,0,0,1-7.6,0Z" transform="translate(14 14)" fill="#242424"/>
+  <circle id="Oval" cx="3.129" cy="3.129" r="3.129" transform="translate(28.167 16.333)" fill="#7a40f2" stroke="#fff" stroke-miterlimit="10" stroke-width="1.083"/>
+</svg>
