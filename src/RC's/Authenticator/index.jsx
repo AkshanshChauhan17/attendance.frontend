@@ -27,7 +27,7 @@ export default function Authenticator() {
                     if(result.message !== "LOGIN FAILED") {
                         localStorage.setItem("token", result.token);
                         alert(result.message);
-                        window.location.href = "/dashboard";
+                        window.location.href = "/";
                     } else {
                         alert(result.message);
                     };
